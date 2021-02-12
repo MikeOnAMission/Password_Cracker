@@ -1,4 +1,4 @@
-# pw_cracker
+# Password_Cracker
 Conceptual password cracker and combination generator
 
 Letter combination generator only uses lowercase characters whereas pw cracker uses ASCII lower, upper, digits and punctuation.
